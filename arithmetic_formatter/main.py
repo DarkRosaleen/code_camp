@@ -1,4 +1,4 @@
-from Leon import arithmetic_arranger
+from arithmetic_arranger import arithmetic_arranger
 
 def main():
     print(arithmetic_arranger(["123 + 456", "789 - 1011", "1213 + 1415", "1617 + 1819"]))
